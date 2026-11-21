@@ -1,0 +1,28 @@
+{
+    "offshore": {
+        "training_rows": 20087,
+        "feature_count": 124,
+        "test_rows_used": 0,
+        "n_estimators": 489,
+        "learning_rate": 0.02,
+        "num_leaves": 15,
+        "min_child_samples": 50,
+        "reg_lambda": 0.5,
+        "calibration_slope": 1.0904714545869794,
+        "calibration_intercept": -62.604739165989486,
+        "oof_observations": 16735
+    },
+    "onshore": {
+        "training_rows": 20087,
+        "feature_count": 140,
+        "test_rows_used": 0,
+        "n_estimators": 829,
+        "learning_rate": 0.05,
+        "num_leaves": 15,
+        "min_child_samples": 100,
+        "reg_lambda": 5.0,
+        "calibration_slope": 1.0690258602375262,
+        "calibration_intercept": -69.50844908752333,
+        "oof_observations": 16735
+    }
+}
